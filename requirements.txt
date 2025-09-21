@@ -1,0 +1,3 @@
+bleak >=0.20.0
+# No hay otras dependencias externas. Si se requieren utilidades para escaneo Wi-Fi en otros OS,
+# podrías añadir scapy o python-wifi según la plataforma, pero ten cuidado con permisos y uso.
