@@ -18,7 +18,7 @@
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/detectBW.git
+git clone https://github.com/6Edgar9/detectBW.git
 cd detectBW
 ```
 
